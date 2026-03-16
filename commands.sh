@@ -6,3 +6,8 @@
 --git remote add orgin [repo_url]
 --git push -u origin main
 
+
+--git status
+--git log
+--git diff
+
